@@ -1,0 +1,26 @@
+{
+    "id": "A8E262DE",
+    "path": "~/Code/BioMac_Lab/MAC-PMSS/scripts/menstrualcycleR_functions.R",
+    "project_path": "scripts/menstrualcycleR_functions.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1780529915388.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "102,2",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1780543240,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1780543240850,
+    "read_only": false,
+    "read_only_alternatives": []
+}
